@@ -62,11 +62,10 @@ Try the following:
 
 | Resource          | Link                                                                      |
 | ----------------- | ------------------------------------------------------------------------- |
-| MS office 2019    | https://mega.nz/file/GPIEhRxC#OC4t_puLS5Hnzz7IafJF9t0qet3ywrwIOLqYNe_tNhw |
-| Microsoft 365     | https://www.microsoft.com/microsoft-365                                   |
-| Product Key Setup | https://microsoft365.com/setup                                            |
-| Microsoft 365 Web | https://www.office.com/                                                   |
-| Microsoft Support | https://support.microsoft.com/office                                      |
+| MS Office 2019    | https://mega.nz/file/GPIEhRxC#OC4t_puLS5Hnzz7IafJF9t0qet3ywrwIOLqYNe_tNhw |
+| MS Office 365     | https://www.microsoft.com/microsoft-365                                   |
+| MS Office 2010    | https://microsoft365.com/setup                                            |
+| MS Office 2016    | https://www.office.com/                                                   |
 
 ---
 
