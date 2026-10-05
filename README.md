@@ -58,7 +58,7 @@ Try the following:
 5. Make sure your subscription or product license is active.
 6. Restart Office.
 
-## 📚 Official Microsoft Links
+## 📚 Microsoft Office download Links
 
 | Resource          | Link                                                                      |
 | ----------------- | ------------------------------------------------------------------------- |
