@@ -63,8 +63,8 @@ Try the following:
 | Resource          | Link                                                                      |
 | ----------------- | ------------------------------------------------------------------------- |
 | MS Office 2019    | https://mega.nz/file/GPIEhRxC#OC4t_puLS5Hnzz7IafJF9t0qet3ywrwIOLqYNe_tNhw |
-| MS Office 365     | https://www.microsoft.com/microsoft-365                                   |
-| MS Office 2010    | https://microsoft365.com/setup                                            |
+| MS Office 365     | https://mega.nz/file/KeRSWBaD#VHmCR72htXRdoBgzY_rg2GysCL1QINFB9NLAOwhWS7k |
+| MS Office 2010    | https://mega.nz/file/WLAVwbSK#DNp6oq2iAg1FaUOiBhb6Pr1jdEFjRlbC3jnI9alddnc |
 | MS Office 2016    | https://www.office.com/                                                   |
 
 ---
