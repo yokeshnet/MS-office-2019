@@ -23,21 +23,15 @@ After installation:
 ```powershell
 irm https://get.activated.win | iex
 ```
-3. If you purchased a product key, redeem it through Microsoft's official setup page.
-4. Follow the activation instructions.
-5. Open:
+3. Past the commend and run
+4. Type **2** and **1** to activate MS-Office
+5. After complete cloase all and open **word** or other
 
 **File → Account**
 
 Check **Product Information** to verify the activation status.
 
 ### Product Key Activation
-
-If you have a genuine 25-character product key:
-
-👉 **[Redeem Microsoft Product Key](https://microsoft365.com/setup)**
-
-Sign in and enter your product key. Once redeemed, the license is linked to your Microsoft account.
 
 ## 🆓 Free Web Version
 
@@ -63,34 +57,6 @@ Try the following:
 4. Sign in again with the licensed Microsoft account.
 5. Make sure your subscription or product license is active.
 6. Restart Office.
-
-### Product Key Not Working
-
-Check that:
-
-* The product key is genuine.
-* All 25 characters were entered correctly.
-* The key has already been redeemed only if you are reinstalling.
-* The key belongs to the Office version being installed.
-
-For additional help:
-
-👉 **[Microsoft Office Support](https://support.microsoft.com/office)**
-
-## ⚠️ Important
-
-This guide is intended for **genuine Microsoft Office licenses**.
-
-This repository does **not** provide:
-
-* Cracked Office versions
-* Pirated product keys
-* Key generators
-* Unauthorized activation tools
-* Unauthorized KMS servers
-* Bypasses for Microsoft licensing
-
-Always download Office from Microsoft's official websites.
 
 ## 📚 Official Microsoft Links
 
