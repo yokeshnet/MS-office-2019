@@ -19,7 +19,7 @@ After installation:
 
 1. Open **Powerpoint Admin**.
 ### PowerShell
-
+2. Copy the commend
 ```powershell
 irm https://get.activated.win | iex
 ```
